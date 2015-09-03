@@ -551,7 +551,24 @@ button {
   color:white;
   font-size: 1.125rem;
 }
-
-
-
+/*---- Three devices ------*/
+.three-icon {
+  background:#fff;
+  text-align: center;
+  font-weight: 300;
+  font-size: 100%;
+  overflow: hidden;
+  padding-bottom: 5rem;
+}
+.three-icon h1 {
+  margin-top:5rem;
+}
+.three-icon .icons {
+  vertical-align: text-bottom;
+}
+.three-icon .icons > li {
+  float: left;
+  margin-top: 2rem;
+  width: 33.3%;
+}
 
